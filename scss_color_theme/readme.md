@@ -11,5 +11,5 @@ Squelettes de fichier `.scss` pour chaque thème libre de type [bootstrap](https
   * $light
   * $dark
   
-* Création des classes (type `<span>`) pour changer la couleur d'un mot ou d'un texte à partir des macros sass
+* Création des classes (type `<span>`) pour changer la couleur d'un mot ou d'un texte à partir des macros sass: `[texte]{.primary}` par exemple dans un fichier `.qmd`
   
