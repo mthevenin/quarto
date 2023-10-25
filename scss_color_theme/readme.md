@@ -4,12 +4,12 @@ Squelettes de fichier `.scss` pour chaque thème libre de type [bootstrap](https
 * Affectation des couleurs aux macro variables sass par défaut
   * $primary
   * $secondary
-  * success
-  * info
-  * warning
-  * danger
-  * light
-  * dark
+  * $success
+  * $info
+  * $warning
+  * $danger
+  * $light
+  * $dark
   
 * Création des classes (type `<span>`) pour changer la couleur d'un mot ou d'un texte à partir des macros sass
   
