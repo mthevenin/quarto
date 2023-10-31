@@ -1,7 +1,7 @@
 
 Support de formation à [Quarto](https://quarto.org/) 
 
-Premières fiches réalisées et disponibles sur le site [assistoolsms - liste fiches liées à Quarto](https://mthevenin.github.io/assistoolsms/Autres/#category=Quarto). Des mises à jours sont à prévoir sur le fond comme sur la forme
+Premières fiches réalisées et disponibles sur le site [assistoolsms - liste fiches liées à Quarto](https://mthevenin.github.io/assistoolsms/Autres/#category=Quarto). Des mises à jours sont à prévoir sur le fond comme sur la forme.
 
 * [Modifier la couleur d’un texte ou d’un paragraphe](https://mthevenin.github.io/assistoolsms/Autres/assist/posts/couleur_texte_scss/couleur_texte_scss.html)
 * [Déployer un contenu html sur gitlab](https://mthevenin.github.io/assistoolsms/Autres/assist/posts/gitlabpage/gitlabpage.html)
